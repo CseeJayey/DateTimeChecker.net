@@ -1,0 +1,17 @@
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.FormDateTimeChecker.resources
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.Properties.Resources.resources
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.csproj.GenerateResource.cache
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.AssemblyInfoInputs.cache
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.AssemblyInfo.cs
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.csproj.CoreCompileInputs.cache
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\bin\Debug\net6.0-windows\DateTimeChecker.exe
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\bin\Debug\net6.0-windows\DateTimeChecker.deps.json
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\bin\Debug\net6.0-windows\DateTimeChecker.runtimeconfig.json
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\bin\Debug\net6.0-windows\DateTimeChecker.dll
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\bin\Debug\net6.0-windows\DateTimeChecker.pdb
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.dll
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\refint\DateTimeChecker.dll
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.pdb
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\DateTimeChecker.genruntimeconfig.cache
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Debug\net6.0-windows\ref\DateTimeChecker.dll

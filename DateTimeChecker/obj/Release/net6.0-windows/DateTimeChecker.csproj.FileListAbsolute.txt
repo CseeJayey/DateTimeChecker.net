@@ -1,0 +1,8 @@
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Release\net6.0-windows\DateTimeChecker.csproj.AssemblyReference.cache
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Release\net6.0-windows\DateTimeChecker.FormDateTimeChecker.resources
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Release\net6.0-windows\DateTimeChecker.Properties.Resources.resources
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Release\net6.0-windows\DateTimeChecker.csproj.GenerateResource.cache
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Release\net6.0-windows\DateTimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Release\net6.0-windows\DateTimeChecker.AssemblyInfoInputs.cache
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Release\net6.0-windows\DateTimeChecker.AssemblyInfo.cs
+E:\School\SWT301\DateTimeChecker\DTChecker\DateTimeChecker\obj\Release\net6.0-windows\DateTimeChecker.csproj.CoreCompileInputs.cache
